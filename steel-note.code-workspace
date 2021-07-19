@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../OneDrive/0Workshop/Zettel"
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "One Dark Pro",
+		"vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+		"editor.fontSize": 23,
+		"editor.accessibilityPageSize": 16
+	}
+}

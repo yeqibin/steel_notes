@@ -1,0 +1,4 @@
+- [Perspectives on Quenching and Tempering 4340 Steel | SpringerLink](https://link.springer.com/article/10.1007/s11661-020-05972-1) [[Obsidian-Highlights]]
+    - Significant embrittlement associated with tempering in the 200 °C to 400 °C range, termed tempered martensite embrittlement (TME) and typically reflected by a “trough” in the toughness vs. tempering curve, is associated with the formation of intra-lath cementite from retained austenite (Figure [1](https://link.springer.com/article/10.1007/s11661-020-05972-1#Fig1)
+    - (b)).
+![](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11661-020-05972-1/MediaObjects/11661_2020_5972_Fig1_HTML.png?as=webp)

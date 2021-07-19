@@ -1,0 +1,9 @@
+keyboard shortcuts:
+ -	Press CMD-L at any time while in the app to “Search or Create…” your files
+ -	Press CMD-R while working in a note to rename the file
+ -	Press CMD-Shift-T to tag the file you’re working in or to bulk tag multiple selected files
+ -	Press CMD-Shift-E while working in a note to access your external text editor of choice
+ -	Press CTRL-CMD-P to open the Preview window
+ -	Press CMD-Shift-R if you ever need to access the file you’re working on in the Finder
+ -	Press CMD-, to access the preferences
+

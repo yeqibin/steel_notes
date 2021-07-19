@@ -3,7 +3,7 @@
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
-  "workbench.colorTheme": "Gray Matter Light",
+  "workbench.colorTheme": "One Dark Pro",
   "[markdown]": {
     "editor.quickSuggestions": true
   },
@@ -15,5 +15,7 @@
   "files.watcherExclude": {
     "**/node_modules": true
   },
-  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension"
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+  "editor.fontSize": 16,
+  "editor.accessibilityPageSize": 15
 }

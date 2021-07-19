@@ -1,0 +1,4 @@
+$$
+\Delta \sigma=0.84 k M \frac{G b}{2 \pi(L-2 \bar{r})} \ln \frac{\bar{r}}{b} \tag{1}
+$$
+

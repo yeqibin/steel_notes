@@ -1,0 +1,6 @@
+Source: https://sspai.com/post/43467#!
+
+除了直接打字，我也常常把网页上的内容直接贴在 nvALT 里，此时就可以使用快捷键 ⌘Command-⇧Shift-V，nvALT 会用摘抄的格式把剪贴板内容站上，让你知道这条内容来自何处，日后做整理回顾非常方便。
+
+<img src="https://b0.bdstatic.com/comment/NOyGKpASImqK5vpA5BoYTgcf38d354f722fe6f6c7f911e478b7ddd.jpg@w_1656,h_1242" alt="img" /><img src="https://b0.bdstatic.com/comment/NOyGKpASImqK5vpA5BoYTgcf38d354f722fe6f6c7f911e478b7ddd.jpg@w_1656,h_1242" alt="img" style="zoom:33%;" />
+

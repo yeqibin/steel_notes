@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "bf20c86803fd4dc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "249c9e7553e7a425",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "20201015-texture-ultrafine-grained-steel.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2200975ed820ed3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e1047668ba45ee2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13583722325ae070",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa8185d67cf65dc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 422.0107650756836
+  },
+  "right": {
+    "id": "84276b0d7b1a2116",
+    "type": "split",
+    "children": [
+      {
+        "id": "b25e896bf60fe4ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c69b13b4f130cd80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20201015-texture-ultrafine-grained-steel.md"
+              }
+            }
+          },
+          {
+            "id": "67cf4453182d2cca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "20201015-texture-ultrafine-grained-steel.md",
+    "20201001-nano-precipitates-in-steels-by-high-magnetic-field.md",
+    "20200916-Nitrogen effects on radiation response in 12Cr ferrite-martensitic alloys.md",
+    "20200827-synergistic-effect-ni-al-cu-steel.md",
+    "20200903-low temperature tempering (LTT).md",
+    "20200903-tempered martensite embrittlement.md",
+    "texture.md",
+    "20201013-texture-through-thickness.md",
+    "20201013-transformation-texture.md",
+    "01booknote-the-craft-of-research.md"
+  ]
+}

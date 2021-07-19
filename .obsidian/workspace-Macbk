@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "1336bff3668273ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "25466e79cd583f43",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01-daily notes/2020100215.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b650224d9dd0cb1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c620093988e36986",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "106339a4aa54e060",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfceb22c702306ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 104,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e259db3489444a66",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6bb85bf7a3ad5f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00258278e8ebc37d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-daily notes/2020100215.md"
+              }
+            }
+          },
+          {
+            "id": "91f88360baf7bb6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 16588.453125,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "01-daily notes/2020100215.md",
+    "01-daily notes/Untitled.md",
+    "01-daily notes/20200922-R6锚链钢.md",
+    "01-daily notes/Untitled 1.md",
+    "20200903-low temperature tempering (LTT).md",
+    "20200827-synergistic-effect-ni-al-cu-steel.md",
+    "20.md.md",
+    "01booknote-the-craft-of-research.md",
+    "02-sources/20200919-deformation-induced-martensitic-transformation-neutron-irradiated-316stainless-steel.md",
+    "02-sources/2020033021-offshore steel, Rack, GPa, Ultra Tough, Offshore Steel.md.md"
+  ]
+}

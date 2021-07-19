@@ -1,0 +1,7 @@
+[doi](https://doi.org/10.1016/j.corsci.2020.108951)
+
+## Highlights
+- Loss of passivation (LOP) is identified for accelerated corrosion in a 13Cr martensite stainless steel
+- The tempering temperature window for LOP effect of the studied MSS is 460-540 °C.
+- The corrosion caused by Al-Mg-O rich inclusions and micro-sized M_23_C_6_ is differentiated.
+- HRTEM shows the nano-sized M

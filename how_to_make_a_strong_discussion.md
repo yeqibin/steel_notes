@@ -1,0 +1,3 @@
+# Discussion
+
+These results show that the capacity to induce $T_{regs}$ and modify their phenotype is a characteristic of more effector strains than was appreciated previously. Our findings concerning the role of human gut bacteria in shaping features of the gut mucosal immune system complement and extend the elegant work by Atarashi et al.(16). They used a single selective conditions (chloroform treatment) to recover a group of 17 strains (all of which were described as members of the class Clostridia) from the human fecal microbiota of a single donor and showed that the consortium was capable of expanding the colonic regulatory T cell compartment in gnotobiotic mice.

@@ -1,0 +1,181 @@
+Source: https://www.kobelco.co.jp/english/products/ecmachinery/pressure/reactor_materials.html
+
+# New materials for reactors
+
+
+Kobe Steel has developed new materials which can withstand intensely high temperature and high pressure hydrogen environment. The modified steels listed below enjoy superior properties of high strength and high hydrogen resistance that are achieved by adding the right amount of vanadium(V) and columbium(Cb) to the existing Cr-Mo steel. These new materials are already standardized in ASME and other codes, and are being used as major materials in the production of desulphurization reactors under high temperature.
+
+*   ![](/share/img/list-content-square.gif)Modified 2 1/4Cr-1Mo-V steel (SA-336-F22V, SA-542-D-4a, SA-832-22V etc.)
+
+![(The first application of the modified 2 1/4 Cr-1Mo-V, 1998)](https://www.kobelco.co.jp/english/products/ecmachinery/pressure/img/06-62274-0-1.jpg)
+
+(The first application of the modified 2 1/4 Cr-1Mo-V, 1998)
+
+![(The world largest reactors, 2009)](https://www.kobelco.co.jp/english/products/ecmachinery/pressure/img/06-62274-0-1.jpg)
+
+(The world largest reactors made of 2 1/4 Cr-1Mo-V 2009)
+
+## Distinctive features of Kobe Steel's modified steel
+
+
+
+### High strength helps minimize the reactor weight
+
+
+
+The enhanced precipitation of carbides of V and Cb realizes higher strength compared with the existing 2 1/4Cr-1Mo steel, leading to a reactor weight reduction of about 10%.
+
+### Improved resistance to hydrogen attack and hydrogen embrittlement
+
+![](/share/img/line-h3.jpg)
+
+The precipitation of stable vanadium carbide and columbium carbonitride suppress the methanization reaction (hydrogen attack), and the trapping of the hydrogen in the steel by the fine vanadium carbide suppresses the hydrogen concentration at crack tips (hydrogen embrittlement).
+
+### Higher resistance to disbonding of stainless steel weld overlay
+
+
+
+The trapping of hydrogen in the steel by fine vanadium carbide suppresses the hydrogen concentration at the boundary of overlay and base-metal.
+
+## Performance comparison between existing steel and improved steel
+
+
+
+<table class="con-table-k12 wid100-k12">
+
+<tbody>
+
+<tr class="txt-center-k12">
+
+<th class="low1-k12" scope="col">Conventional 2 1/4Cr-1Mo steel  
+(SA-336-F22)</th>
+
+<th class="low1-k12" scope="col">Modified 2 1/4Cr-1Mo-V steel  
+</th>
+
+</tr>
+
+<tr class="txt-center-k12">
+
+<th class="low-other-k12 txt-left-k12" scope="row">Highest working temperature  
+(ASME VIII, Div.2 design)</th>
+
+<td>482°C  
+(900°F)</td>
+
+<td>482°C  
+(900°F)</td>
+
+</tr>
+
+<tr class="txt-center-k12">
+
+<th class="low-other-k12 txt-left-k12" scope="row">Hydrogen attack resistance limit  
+(Nelson Curve)</th>
+
+<td>454°C  
+(850°F)</td>
+
+<td>510°C  
+(950°F)</td>
+
+</tr>
+
+<tr class="txt-center-k12">
+
+<th class="low-other-k12 txt-left-k12" scope="row">Hydrogen embrittlement</th>
+
+<td>-</td>
+
+<td>Higher resistance than conventional steel</td>
+
+</tr>
+
+<tr class="txt-center-k12">
+
+<th class="low-other-k12 txt-left-k12" scope="row">Overlay disbond limit</th>
+
+<td>200 bar at 454°C  
+(850°F)</td>
+
+<td>300 bar at 600°C  
+(1112°F)</td>
+
+</tr>
+
+<tr class="txt-center-k12">
+
+<th class="low-other-k12 txt-left-k12" scope="row">Impact test temperature  
+(Av. 40ft-lb/min. 35ft-lb)</th>
+
+<td>-30°C  
+(-22°F)</td>
+
+<td>-18°C  
+(0°F)</td>
+
+</tr>
+
+<tr class="txt-center-k12">
+
+<th class="low-other-k12 txt-left-k12" scope="row">Temper embrittlement  
+(Step cool test)</th>
+
+<td>vTr40+3△vTr40  
+<=10°C (50°F)</td>
+
+<td>vTr40+3△vTr40  
+<=10°C (50°F)</td>
+
+</tr>
+
+<tr class="txt-center-k12">
+
+<th class="low-other-k12 txt-left-k12" scope="row">Tensile strength at room temperature</th>
+
+<td>515-690 MPa  
+(75-100 ksi)</td>
+
+<td>585-760 MPa  
+(85-110 ksi)</td>
+
+</tr>
+
+<tr class="txt-center-k12">
+
+<th class="low-other-k12 txt-left-k12" scope="row">Allowable design stress intensity (454°C)</th>
+
+<td>149.8 MPa  
+(21.9 ksi)</td>
+
+<td>199.8 MPa  
+(28.9 ksi)</td>
+
+</tr>
+
+<tr class="txt-center-k12">
+
+<th class="low-other-k12 txt-left-k12" scope="row">Reactor weight comparison  
+(Design temperature: 454°C)</th>
+
+<td>100%</td>
+
+<td>75%</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+![Contact](/share/img/title-inquiry-e.gif)
+
+Sales & Marketing Department  
+Energy & Chemical Business Unit  
+Machinery Business
+
+Kobe Steel, Ltd.
+
+[![Inquiry form](/share/img/btn-inquiry-e.gif)](https://www.kobelco.co.jp/inq/form/index.php?m=Mailform&no=071)
+
+[![](/share/img/pagetop_en.png)](#page-k12)

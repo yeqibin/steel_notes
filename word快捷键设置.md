@@ -1,0 +1,20 @@
+[工具] → [自定义键盘]→[所有命令]
+- Ctrl-c 插入题注 InsertCaption
+- Ctrl-r 插入交叉引用 InsertCrossReference
+- Ctrl-b 后一个字符 CharLeft
+- Ctrl-f 前一个字符 CharRight
+- Ctrl-p 上一行 LineUp
+- Ctrl-n 下一行 LineDown
+- Ctrl-Shift-f 前一个单词 WordRight
+- Ctrl-Shift-b 后一个单词 WordLeft
+- Ctrl-a 行首 StartOfLine
+- Ctrl-e 行尾 EndOfLine
+- Ctrl-v 向下翻一页 PageDown
+- Ctrl-Shift-v 向上翻一页 PageUp
+- Ctrl-， 到文件开头 StartOfDocument
+- Ctrl-.  到文件末尾 EndOfDocument
+- Option+Ctrl+z  加入或编辑zotero citation
+- Option+Ctrl+n 加入zotero笔记
+- ⌘+= 放大
+- ⌘+- 缩小
+- Ctrl+shift+Z: 正文

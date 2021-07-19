@@ -1,0 +1,16 @@
+{
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "cementite",
+    "embrittlement",
+    "austenite"
+  ],
+  "attachmentFolderPath": "attachment",
+  "useMarkdownLinks": false,
+  "vimMode": false,
+  "promptDelete": false,
+  "foldHeading": true,
+  "defaultViewMode": "preview",
+  "fileSortOrder": "byModifiedTime"
+}

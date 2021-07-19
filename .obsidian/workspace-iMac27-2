@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "bf20c86803fd4dc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4700fdd41bcf73d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2020040211-grain-size-measurement.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2200975ed820ed3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e1047668ba45ee2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13583722325ae070",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa8185d67cf65dc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#microscopy",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.0107650756836
+  },
+  "right": {
+    "id": "84276b0d7b1a2116",
+    "type": "split",
+    "children": [
+      {
+        "id": "b25e896bf60fe4ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c69b13b4f130cd80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2020040211-grain-size-measurement.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67cf4453182d2cca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "02da3c174397d8cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2020040211-grain-size-measurement.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d21fb3a0240b7526",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c52da44f13748837",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a4700fdd41bcf73d",
+  "lastOpenFiles": [
+    "2020040211-grain-size-measurement.md",
+    "literature notes/nes2000a.md",
+    "literature notes/20200904-.md",
+    "literature notes/kim2021joms&t.md",
+    "literature notes/@kim2021joms&t.md",
+    "literature notes/@wang2021cm.md",
+    "03-permanent notes/20200919-deformation-induced-martensitic-transformation-neutron-irradiated-316stainless-steel.md",
+    "03-permanent notes/202107141129-hydrogen-embrittlement.md",
+    "03-permanent notes/202107181624-austenite-stability.md",
+    "Day Planners/Day Planner-20210718.md"
+  ]
+}
